@@ -17,7 +17,7 @@ from utils import format_currency, calc_total_from_denominaciones, export_estado
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Caja Fuerte",
+    page_title="Efectivo ALPHA",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded",
